@@ -1,0 +1,5 @@
+[user]
+	name=nothing
+	email=502804458@qq.com
+[core]
+	excludesfile = D:/settings/git.ignore
